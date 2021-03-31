@@ -53,8 +53,6 @@ experience
 ● 5+ years of C, C++, C#, HTML, JQuery,
 AngularJS experience
 ● 3+ years customer service experience
-```
-```
 ● Villanova CLAS Peer Mentor
 ● Member of Villanova’s ICPC Programming
 Team
