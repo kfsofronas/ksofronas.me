@@ -1,3 +1,0 @@
-theme: jekyll-theme-minimal
-title: Please Hire Me
-description: A website so people can hire me (please)
