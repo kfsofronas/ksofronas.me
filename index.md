@@ -44,8 +44,8 @@ Dean's List: Fall 2018, Spring 2019, Fall 2019, Fall 2020
 
 _Audio/Video Technician_
 
-- Install, adjust, and operate speakers, lights, projectors, and other equipment for over 30 on-campus events.
-- Control event lights and sound for live events, before and after performances.
+- Work with a team to install, adjust, and operate speakers, lights, projectors, and other equipment for over 30 on-campus events.
+- Organize and maintain current inventory of equipment, including ordering replacement parts
 
 **Jersey Fine Wines** , New Providence, NJ May 2019 – January 2021
 
@@ -54,7 +54,9 @@ _Sales Associate_
 - Managed inventory for a constantly increasing number of customers.
 - Managed sales and general customer service.
 
-**Chopt Creative Salad Co.** ,New Providence, NJ April 2018 – August 2018 _Sales Associate_
+**Chopt Creative Salad Co.** ,New Providence, NJ April 2018 – August 2018
+
+_Sales Associate_
 
 - Recommended, selected, and helped locate or obtain items based on customer needs.
 - Managed the sanitation of and working quality of the customer-facing side of the business.
