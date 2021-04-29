@@ -34,7 +34,7 @@ Dean's List: Fall 2018, Spring 2019, Fall 2019, Fall 2020
 
 [Sweeps &amp; Throws](https://sofronas.itch.io/sweeps-and-throws): A video game made in 8 hours using Unity and C# for the United Game Jam
 
-[Random Dungeon Generator](https://github.com/kfsofronas/Game-Masters-Random-Dungeon-Generator): A D&amp;D Dungeon generator using Perlin Noise that I&#39;m currently working on with a Scrum team for my Software Engineering class
+[Random Dungeon Generator](https://github.com/CSC4700-Spring2021-Org/project-4700-s21-team-6-microlite20-map-generator): A D&amp;D Dungeon generator using Perlin Noise that I&#39;m currently working on with a Scrum team for my Software Engineering class
 
 [Timed Discord Bot](https://github.com/kfsofronas/Simple-Timed-Discord-Bot): A python bot that sends a message in a discord server at random intervals using the discord.py API
 
